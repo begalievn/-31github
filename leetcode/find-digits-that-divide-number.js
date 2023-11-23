@@ -9,5 +9,8 @@ function countDigits(num) {
       curr = Math.floor(curr / 10);
   }
 
+
+
+  
   return result;
 };
