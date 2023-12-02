@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/next-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/next-full-ulbi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ninja-reviews/my-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wildrydes-site" vcs="Git" />
+  </component>
+</project>
